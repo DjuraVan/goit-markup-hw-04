@@ -170,7 +170,7 @@ span{
     padding-bottom: 200px;
     text-align: center;
     background: rgba(47, 48, 58, 0.4);
-    background-image: url(/images/herologo.jpg);
+    background-image: url(./images/herologo.jpg);
 }
 
 .hero-title{
