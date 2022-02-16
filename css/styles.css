@@ -170,7 +170,9 @@ span{
     padding-bottom: 200px;
     text-align: center;
     background: rgba(47, 48, 58, 0.4);
-    background-image: url(/images/herologo.jpg);
+    background-image: url(./images/herologo.jpg);
+    background-position: cover;
+
 }
 
 .hero-title{
@@ -228,21 +230,21 @@ span{
 }
 .feature-list .icon-connection::before{
 
-    background-image: url(./images/icons/antenna\ 1.svg);
+    background-image: url(./images/icons/antenna.svg);
 }
 .feature-list .icon-time::before{
 
-    background-image: url(./images/icons/clock\ 1.svg);
+    background-image: url(./images/icons/clock.svg);
 }
 
 .feature-list .icon-planing::before{
 
-    background-image: url(./images/icons/diagram\ 1.svg);
+    background-image: url(./images/icons/diagram.svg);
 }
 
 .feature-list .icon-technology::before{
 
-    background-image: url(./images/icons/astronaut\ 1.svg);
+    background-image: url(./images/icons/astronaut.svg);
 }
 .feature .item + .item{
     margin-left: 30px;
