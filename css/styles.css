@@ -673,3 +673,6 @@ span{
 .socials-link:focus .socials-icon{
     fill: var(--main-decoretion-color);
 }
+.footer_text{
+    background-color: #ECECEC;
+}
